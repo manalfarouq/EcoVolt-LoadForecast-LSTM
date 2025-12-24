@@ -23,7 +23,7 @@ ENV/
 # Data files
 # =========================
 data/
-*.csv
+# *.csv
 *.tsv
 *.xlsx
 
